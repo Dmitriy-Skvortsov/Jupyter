@@ -1,2 +1,2 @@
-cd C:\Work\Github\Jupyter
+cd C:\Work\Git\Jupyter
 jupyter notebook
